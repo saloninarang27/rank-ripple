@@ -1,0 +1,2 @@
+iterations,max_abs_difference,mean_abs_difference,local_rank_sum,pregel_rank_sum
+10,4.336808689942018e-18,9.626166431424872e-20,1.0,1.0
